@@ -12,6 +12,7 @@
         <module>SpringFramework</module>
         <module>JavaBasicOps</module>
         <module>NettyCourse</module>
+        <module>MyBatisCourse</module>
     </modules>
 
     <properties>
